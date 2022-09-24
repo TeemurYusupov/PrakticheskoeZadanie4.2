@@ -8,7 +8,7 @@ Console.Clear();
 Console.Write("Введите число:  ");
 int n = Convert.ToInt32(Console.ReadLine());
 
-if (n < 99);
+if (n < 100)
 {
    Console.WriteLine("третьей цифры нет");     
 }                                                  
